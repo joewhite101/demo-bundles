@@ -1,6 +1,6 @@
-code: inail_survey
+code: survey-display
 titles:
-  en: Inail Survey
-  it: Inail Survey
+  en: Survey Widget
+  it: Survey Widget
 group: free
 customUiPath: survey-display.ftl

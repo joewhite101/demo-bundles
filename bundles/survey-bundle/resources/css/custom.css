@@ -299,7 +299,7 @@ footer>a {
     display: block;
 }
 
-footer img.logo-inail {
+footer img.logo-survey {
     margin-bottom: 20px;
     display: block;
     width: 160px;
@@ -320,7 +320,7 @@ footer img.logo-inail {
         margin-left: 40px;
         margin-left: 0;
     }
-    .container>footer img.logo-inail {
+    .container>footer img.logo-survey {
         margin-bottom: 40px;
         margin-left: 40px;
         margin-left: 15px;

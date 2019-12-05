@@ -1,5 +1,5 @@
-code: inail_bundle
-description: This is the inail bundle
+code: survey
+description: The survey bundle provides widgets and page models to render a survey.
 
 components:
   plugins:
@@ -7,15 +7,12 @@ components:
 
   widgets:
     - widgets/approfondire.yaml
-    - widgets/footer.yaml
-    - widgets/header.yaml
     - widgets/glossario.yaml
     - widgets/home_text.yaml
     - widgets/survey-display.yaml
-    - widgets/survey-admin.yaml
 
   pageModels:
-    - pagemodels/inail_sidebar.yaml
+    - pagemodels/survey_sidebar.yaml
 
   contentTypes:
     - contenttypes/my_content_type_descriptor.yaml

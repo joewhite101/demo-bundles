@@ -1,6 +1,6 @@
-code: inail_survey_admin
+code: survey_admin
 titles:
-  en: Inail Survey Administration
-  it: Inail Survey Administration
+  en: Survey Administration
+  it: Survey Administration
 group: free
 customUiPath: survey-admin.ftl

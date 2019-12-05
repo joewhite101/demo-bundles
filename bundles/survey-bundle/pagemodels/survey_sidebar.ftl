@@ -5,10 +5,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" pageEncoding="UTF-8"/>
 	<title><@wp.currentPage param="title" /></title>
 
-	<link rel="stylesheet" href="<@wp.resourceURL />inail/css/bootstrap-italia.min.css">
-	<link rel="stylesheet" href="<@wp.resourceURL />inail/css/custom.css">
+	<link rel="stylesheet" href="<@wp.resourceURL />survey/css/bootstrap-italia.min.css">
+	<link rel="stylesheet" href="<@wp.resourceURL />survey/css/custom.css">
 
-	<link rel="shortcut icon" href="<@wp.resourceURL />inail/img/favicon.ico" type="image/x-icon"/>
+	<link rel="shortcut icon" href="<@wp.resourceURL />survey/img/favicon.ico" type="image/x-icon"/>
 </head>
 
 <body>
@@ -32,6 +32,6 @@
 			</div>
 		</div>
 	</div>
-	<script type="application/javascript" src="<@wp.resourceURL />inail/js/bootstrap-italia.bundle.min.js"></script>
+	<script type="application/javascript" src="<@wp.resourceURL />survey/js/bootstrap-italia.bundle.min.js"></script>
 </body>
 </html>
