@@ -1,0 +1,45 @@
+version: entando.org/v1alpha1
+code: inail_bundle
+description: This is the inail bundle
+
+components:
+  service:
+    image: kerruba/entando-survey-plugin
+    ingressPath: /survey
+    healthCheckPath: /actuator/health
+    dbms: postgresql 
+    roles:
+    - name: survey-list
+      code: "survey-list"
+    - name: survey-get
+      code: "survey-get"
+    - name: survey-create
+      code: "survey-create"
+    - name: survey-submission-list
+      code: "survey-submission-list"
+    - name: survey-submission-get
+      code: "survey-submission-get"
+    - name: survey-submission-create
+      code: "survey-submission-create"
+    - name: survey-submission-export
+      code: "survey-submission-export"
+    permissions: []
+
+  widgets:
+    - widgets/approfondire.yaml
+    - widgets/footer.yaml
+    - widgets/header.yaml
+    - widgets/glossario.yaml
+    - widgets/home_text.yaml
+    - widgets/survey-display.yaml
+    - widgets/survey-admin.yaml
+
+  pageModels:
+    - pagemodels/inail_sidebar.yaml
+
+  contentTypes:
+    - contenttypes/my_content_type_descriptor.yaml
+
+  contentModels:
+    - contentmodels/my_content_model_descriptor.yaml
+    - contentmodels/another_content_model_descriptor.yaml

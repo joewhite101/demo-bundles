@@ -1,2 +1,4 @@
-# demo-bundles
-Bundles for Entando demos
+# README #
+
+Collection of bundles for the SME digital exchange.
+

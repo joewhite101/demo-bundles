@@ -1,0 +1,7 @@
+version: entando.org/v1alpha1
+code: keycloak-redirect
+titles:
+  en: Keycloak Redirect
+  it: Keycloak Redirect
+group: free
+customUiPath: keycloak-redirect.ftl

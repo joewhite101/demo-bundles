@@ -1,0 +1,8 @@
+version: entando.org/v1alpha1
+code: comc4-bundle
+description: This is the comc4 bundle
+
+components:
+
+  pageModels:
+    - pagemodels/comc4-layout.yaml
