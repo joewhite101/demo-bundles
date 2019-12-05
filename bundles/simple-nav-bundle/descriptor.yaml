@@ -1,8 +1,8 @@
 version: entando.org/v1alpha1
-code: comc4-bundle
-description: This is the comc4 bundle
+code: simple-nav-bundle
+description: This bundle contains a basic layout in a page model with a header, a frame to integrate SSO, and integration with Entando i18n.
 
 components:
 
   pageModels:
-    - pagemodels/comc4-layout.yaml
+    - pagemodels/simple-nav-layout.yaml

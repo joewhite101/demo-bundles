@@ -11,18 +11,18 @@
         <title>
             <@wp.i18n  key="PORTAL_TITLE" /> - <@wp.currentPage param="title" />
         </title>
-        <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />static/css/comc4ei.css" />
+        <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />simple-nav/css/simple-nav.css" />
 
-  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />static/css/bootstrap-italia.min.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />static/css/media-queries.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />static/css/all.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />static/css/font-awesome/css/font-awesome.css" />
-  <script>window.__PUBLIC_PATH__ = '<@wp.resourceURL />static/fonts'</script>
-  <link rel="icon" href="<@wp.resourceURL />static/img/favicon.ico"/>
-  <script src="<@wp.resourceURL />static/js/jquery-3.3.1.min.js"></script>
-  <script src="<@wp.resourceURL />static/js/popper.min.js"></script>
-  <script src="<@wp.resourceURL />static/js/html2canvas.min.js"></script>
-  <script src="<@wp.resourceURL />static/js/custom_js.js"></script>
+  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />simple-nav/css/bootstrap-italia.min.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />simple-nav/css/media-queries.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />simple-nav/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />simple-nav/css/font-awesome/css/font-awesome.css" />
+  <script>window.__PUBLIC_PATH__ = '<@wp.resourceURL />simple-nav/fonts'</script>
+  <link rel="icon" href="<@wp.resourceURL />simple-nav/img/favicon.ico"/>
+  <script src="<@wp.resourceURL />simple-nav/js/jquery-3.3.1.min.js"></script>
+  <script src="<@wp.resourceURL />simple-nav/js/popper.min.js"></script>
+  <script src="<@wp.resourceURL />simple-nav/js/html2canvas.min.js"></script>
+  <script src="<@wp.resourceURL />simple-nav/js/custom_js.js"></script>
     </head>
 
     <body>
@@ -32,13 +32,13 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="it-header-slim-wrapper-content">
-                                <a class="d-none d-lg-block navbar-brand" href="http://www.esercito.difesa.it/">
-                                    <img src="<@wp.imgURL />Esercito horizontal_color_1x.png" alt="logo">
+                                <a class="d-none d-lg-block navbar-brand" href="http://www.entando.com">
+                                    <img src="<@wp.resourceURL />simple-nav/img/main_logo.png" alt="logo">
                                 </a>
                                 <div class="nav-mobile">
                                     <nav>
                                         <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu3" role="button" aria-expanded="false" aria-controls="menu3">
-                                            <img  class="esercito-logo"  src="<@wp.imgURL />Esercito horizontal_color_1x.png" alt="logo">
+                                            <img  class="main-logo"  src="<@wp.resourceURL />simple-nav/img/main_logo.png" alt="logo">
                                         </a>
                                     </nav>
                                 </div>
@@ -63,8 +63,8 @@
                             <div class="col-12">
                                 <div class="it-header-center-content-wrapper">
                                     <div class="it-brand-wrapper">
-                                        <a href="<@wp.url page="homepage" />" title="HOMEPAGE COMC4EI">
-                                            <img class="icon" alt="" src="<@wp.imgURL />logoSME.png">
+                                        <a href="<@wp.url page="homepage" />" title="HOMEPAGE SIMPLE NAV">
+                                            <img class="icon" alt="" src="<@wp.resourceURL />simple-nav/img/secondary_logo.png">
                                             &ensp;
                                             <div class="it-brand-text">
                                                 <h2 class="no_toc">
@@ -92,7 +92,7 @@
                                 <nav class="navbar navbar-expand-lg has-megamenu">
                                     <a class="custom-navbar-toggler" type="button" aria-controls="nav100" aria-expanded="false" aria-label="Toggle navigation" data-target="#nav100">
                                         <svg class="icon">
-                                        <use xlink:href="<@wp.imgURL/>sprite.svg#it-burger"></use>
+                                        <use xlink:href="<@wp.resourceURL />simple-nav/img/sprite.svg#it-burger"></use>
                                         </svg>
                                     </a>
                                     <div class="navbar-collapsable" id="nav100" style="display: none;">
@@ -118,7 +118,7 @@
                                             <div class="close-div close-div-custom">
                                                 <button class="btn close-menu" type="button">
                                                     <svg class="icon">
-                                                    <use href="<@wp.imgURL/>sprite.svg#it-close"></use>
+                                                    <use href="<@wp.resourceURL />simple-nav/img/sprite.svg#it-close"></use>
                                                     </svg>
                                                     <span class="it-close">Chiudi</span>
                                                 </button>
@@ -127,7 +127,7 @@
                                                 <div class="custom-box">
                                                     <#if (Session.currentUser.username != "guest") >
                                                             <svg class="icon icon-lg icon-custom">
-                                                            <use xlink:href="<@wp.imgURL />sprite.svg#it-user"></use>
+                                                            <use xlink:href="<@wp.resourceURL />simple-nav/img/sprite.svg#it-user"></use>
                                                             </svg>
 
                                                             <div class="user-logged">
@@ -190,9 +190,9 @@
         <div class="overlay"></div>
 
 
-<script src="<@wp.resourceURL />static/js/bootstrap-italia.bundle.min.js"></script>
+<script src="<@wp.resourceURL />simple-nav/js/bootstrap-italia.bundle.min.js"></script>
 
-  <link src="<@wp.resourceURL />static/css/media-queries.css" rel="stylesheet">
+  <link src="<@wp.resourceURL />simple-nav/css/media-queries.css" rel="stylesheet">
 
     </body>
 </html>

@@ -1,0 +1,7 @@
+version: entando.org/v1alpha1
+code: agid-footer
+titles:
+  en: AgID Footer
+  it: AgID Footer
+group: free
+customUiPath: agid-footer.ftl

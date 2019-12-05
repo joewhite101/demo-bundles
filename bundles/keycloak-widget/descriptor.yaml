@@ -1,6 +1,6 @@
 version: entando.org/v1alpha1
 code: keycloak_bundle
-description: This bundle includes a single widget that can be used to redirect the user to the SME keycloak instance for authentication via 2FA. A page model and styling should be installed separately to use this widget
+description: This bundle includes a single widget that can be used to redirect the user to the keycloak instance for authentication via 2FA.
 
 components:
 
