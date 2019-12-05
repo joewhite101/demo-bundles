@@ -65,7 +65,7 @@
 
 
 .it-header-slim-wrapper {
-    background: #001F6B !important;
+    background: #FFFFFF !important;
 }
 .it-header-navbar-wrapper {
     /* background: #001F6B !important; */
@@ -308,14 +308,15 @@
 }
 
 .card-title {
-<<<<<<< HEAD
 
 }
 
 .calendar-widget .badge {
     font-size:16px;
 
-=======
+}
 
->>>>>>> fix_servizi
+.main-logo {
+    max-width: 108px;
+    max-height: 40px;
 }

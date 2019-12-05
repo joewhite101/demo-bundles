@@ -11,12 +11,12 @@
                         <div class="it-brand-wrapper">
 
                             <a href="http://www.entando.com/">
-                                <img class="icon-footer" src="<@wp.resourceURL />agid/img/main_logo.png" alt="logo-esercito">
+                                <img class="icon-footer" src="<@wp.resourceURL />agid/img/main_logo.png" alt="logo-agid">
                             </a>
                             <hr/>
                             <a href="http://www.entando.com/">
-                                <img class="icon-footer" src="<@wp.resourceURL />agid/img/main_logo.png" alt="logo-agid">
-                            </a>
+                                  <img class="icon-footer" src="<@wp.resourceURL />agid/img/AgID_white_2x.png" alt="logo-agid">
+                             </a>
 
                         </div>
                     </div>
@@ -24,59 +24,59 @@
                 <div class="col-lg-2  col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Capo di SME</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Associazioni e società partecipate">La Mascotte</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Rappresentanza militare</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">COCER</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">COBAR</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Aree di competenza">Rassegna stampa</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Rassegna video</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Diretta video</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Gruppo Sportivo Paralimpico della Difesa</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Centro Veterani della Difesa</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Associazioni e società partecipate">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Aree di competenza">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Page Link</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Noi PA</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Adhoc </a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">SIGE</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">SIEFIM</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">SIESTAT</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Protezione dati personali</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Associazioni professionali tra militari a carattere sindacale che hanno ottenuto l'assenso del Ministro</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link </a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2  col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Operazioni internazionali</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Musei storici</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Atti parlamentari</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">CISA</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Esercito amico</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">ONAOMCE</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Annuari</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Associazioni</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Bandi a Status</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2  col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Esercito.difesa.it</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">EDA</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Archimede</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">AOO-SME  e posta Certificata</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">LibreOffice</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Ordinamento militare</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">WISE Uff. pianificazione</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Matrice interscambio</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Comando C4 EI</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
                         </ul>
                     </div>
                 </div>

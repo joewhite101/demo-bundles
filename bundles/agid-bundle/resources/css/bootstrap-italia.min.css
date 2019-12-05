@@ -27564,7 +27564,7 @@ span.data {
 }
 
 .greenF {
-    background:#009246;
+    background: #2a8c45;
     height: 80px;
     position:relative;
 }
@@ -27576,13 +27576,13 @@ span.data {
 }
 
 .redF {
-    background:#ce2b37;
+    background:#ce212a;
     height: 80px;
     position:relative;
 }
 
 .greenB {
-    background:#009246;
+    background: #2a8c45;
     height: 80px;
     position:relative;
 }
@@ -27594,7 +27594,7 @@ span.data {
 }
 
 .redB {
-    background:#ce2b37;
+    background:#ce212a;
     height: 80px;
     position:relative;
 }
