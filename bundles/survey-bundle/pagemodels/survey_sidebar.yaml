@@ -1,9 +1,7 @@
-code: inail-sidebar
-description: Inail Sidebar
-
+code: survey_sidebar
+description: Survey Sidebar
 group: free
-
-templatePath: inail_sidebar.ftl
+templatePath: survey_sidebar.ftl
 
 configuration:
   frames:
