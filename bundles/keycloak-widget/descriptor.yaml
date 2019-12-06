@@ -1,4 +1,3 @@
-version: entando.org/v1alpha1
 code: keycloak_bundle
 description: This bundle includes a single widget that can be used to redirect the user to the keycloak instance for authentication via 2FA.
 

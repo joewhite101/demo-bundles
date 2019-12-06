@@ -1,4 +1,3 @@
-version: entando.org/v1alpha1
 code: agid
 description: This bundle contains an AgID compliant page model and a header for creating AgID compliante sites. The bundle also contains an AgID compliant footer widget with placeholder menu items for building out a new application. The page model is integratable with SSO via Keycloak.
 
