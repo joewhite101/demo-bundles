@@ -1,0 +1,42 @@
+######################## AGID BUNDLE  ###################################
+
+{
+	"id": "agid",
+    "name": "AgID Bundle",
+    "description": "This bundle contains an AgID compliant page model and a header for creating AgID compliante sites. The bundle also contains an AgID compliant footer widget with placeholder menu items for building out a new application. The page model is integratable with SSO via Keycloak",
+    "type": "bundle",
+    "version": "4.1.6",
+    "repoId": 1,
+    "repoDirectory": "bundles/agid-bundle",
+    "password": "mypassword"
+}
+
+
+
+
+######################## KEYCLOAK ###################################
+{
+	"id": "keycloak",
+    "name": "Keycloak Widget",
+    "description": "This bundle contains a widget for integrating SSO via keycloak",
+    "type": "bundle",
+    "version": "1.1.2",
+    "repoId": 1,
+    "repoDirectory": "bundles/keycloak-bundle",
+    "password": "mypassword"
+}
+
+
+
+
+########################## SIMPLE NAV ####################################
+{
+	"id": "simple-nav",
+    "name": "Simple Nav Bundle ",
+    "description": "This bundle contains apage model for a simple navigation with a header. Ready to be integrated with SSO",
+    "type": "bundle",
+    "version": "1.1.2",
+    "repoId": 1,
+    "repoDirectory": "bundles/simple-nav-bundle",
+    "password": "mypassword"
+}
