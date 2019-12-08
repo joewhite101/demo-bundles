@@ -64,8 +64,6 @@
                                 <div class="it-header-center-content-wrapper">
                                     <div class="it-brand-wrapper">
                                         <a href="<@wp.url page="homepage" />" title="HOMEPAGE SIMPLE NAV">
-                                            <img class="icon" alt="" src="<@wp.resourceURL />simple-nav/img/secondary_logo.png">
-                                            &ensp;
                                             <div class="it-brand-text">
                                                 <h2 class="no_toc">
                                                     <@wp.i18n key="ENTE_APPARTENENZA" />
