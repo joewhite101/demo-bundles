@@ -27663,7 +27663,7 @@ span.data {
 
 
 .logo-agid-secondary {
-    height: 43px;
+    max-height: 43px;
     position: relative;
     right: 36px;
     top: -11px;

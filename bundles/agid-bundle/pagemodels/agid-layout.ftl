@@ -97,7 +97,8 @@
                 <div class="d-none d-lg-block d-sm-none container ">
                     <div class="d-flex justify-content-around ">
 
-                        
+                        <div class="divCustom1  greenF">
+                        </div>
                         <div class="divCustom2 whiteF">
                             <a class="d-flex align-items-center" href="<@wp.url page="homepage" />">
                                 <img class="logo-agid-secondary" src="<@wp.resourceURL />agid/img/secondary_logo.png" alt="logo">

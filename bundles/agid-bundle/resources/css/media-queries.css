@@ -360,6 +360,14 @@
         right: 36px;
         top: -11px;
     }
+
+    .logo-agid-secondary {
+        max-height: 43px;
+        position: relative;
+        right: 36px;
+        top: -11px;
+    }
+
     .it-header-center-wrapper {
         background: #BF2B2B;
         height: 170px;
