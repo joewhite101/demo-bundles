@@ -27653,3 +27653,18 @@ span.data {
     color: #000;
     font-size: 18px;
 }
+
+.logo-agid {
+    height: 43px;
+    position: relative;
+    right: 36px;
+    top: -11px;
+}
+
+
+.logo-agid-secondary {
+    height: 43px;
+    position: relative;
+    right: 36px;
+    top: -11px;
+}
