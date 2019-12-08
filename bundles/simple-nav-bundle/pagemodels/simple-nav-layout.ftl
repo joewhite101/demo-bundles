@@ -33,7 +33,7 @@
                         <div class="col-12">
                             <div class="it-header-slim-wrapper-content">
                                 <a class="d-none d-lg-block navbar-brand" href="http://www.entando.com">
-                                    <img src="<@wp.resourceURL />simple-nav/img/main_logo.png" alt="logo">
+                                    <img class="main-logo" src="<@wp.resourceURL />simple-nav/img/main_logo.png" alt="logo">
                                 </a>
                                 <div class="nav-mobile">
                                     <nav>
