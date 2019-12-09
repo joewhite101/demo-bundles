@@ -1,0 +1,7 @@
+code: survey_admin
+description: This is the inail bundle
+
+components:
+
+  widgets:
+    - widgets/survey-admin.yaml

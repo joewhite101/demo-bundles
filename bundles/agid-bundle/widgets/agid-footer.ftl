@@ -24,44 +24,44 @@
                 <div class="col-lg-2  col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Consiglio</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Associazioni e società partecipate">Associazioni e società partecipate</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Bancaria</a></li>
                             <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Associazioni e società partecipate">Page Link</a></li>
                             <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Giunta e consiglio">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Aree di competenza">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Aree di competenza">Aree di competenza</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Dipendenti</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Luoghi</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Dipendenti">Dipendenti</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Luoghi">Luoghi</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link </a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno"Sostegno</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Domande e iscrizioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Segnalazioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Autorizzazioni e concessioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">omande e iscrizioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Pagamenti</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Segnalazioni</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2  col-sm-6 mt-5">
                     <div class="link-list-wrapper">
                         <ul class="footer-list link-list clearfix">
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Pagamenti">Pagamenti</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Domande e iscrizioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Segnalazioni</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Autorizzazioni e concession</a></li>
                             <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Autorizzazioni e concessioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Sostegno">Sostegno</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Domande e iscrizioni</a></li>
                             <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Domande e iscrizioni">Page Link</a></li>
-                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Page Link</a></li>
+                            <li><a class="list-item" href="#" title="Vai alla pagina: Segnalazioni">Segnalazioni</a></li>
                         </ul>
                     </div>
                 </div>

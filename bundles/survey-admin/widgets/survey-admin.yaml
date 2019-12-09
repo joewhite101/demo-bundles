@@ -1,0 +1,6 @@
+code: survey_admin
+titles:
+  en: Survey Administration
+  it: Survey Administration
+group: free
+customUiPath: survey-admin.ftl
