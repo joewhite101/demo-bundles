@@ -22,7 +22,7 @@
     "type": "bundle",
     "version": "1.1.2",
     "repoId": 1,
-    "repoDirectory": "bundles/keycloak-bundle",
+    "repoDirectory": "bundles/keycloak-widget",
     "password": "mypassword"
 }
 
@@ -38,5 +38,19 @@
     "version": "1.1.2",
     "repoId": 1,
     "repoDirectory": "bundles/simple-nav-bundle",
+    "password": "mypassword"
+}
+
+
+
+######################### SURVEY ########################################
+{
+    "id": "survey",
+    "name": "Survey Bundle ",
+    "description": "This bundle contains the survey microservice, page models, and a widget to integrate the service. The microservice exposes a set of APIs and capability to render and persist surveys.",
+    "type": "bundle",
+    "version": "2.1.2",
+    "repoId": 1,
+    "repoDirectory": "bundles/survey-bundle",
     "password": "mypassword"
 }
