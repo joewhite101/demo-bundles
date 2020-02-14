@@ -1,0 +1,15 @@
+{
+  "name": "survey-admin",
+  "version": "1.0.0",
+  "description": "This is the inail bundle",
+  "main": "descriptor.yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entando6",
+    "digital-exchange"
+  ],
+  "author": "Entando",
+  "license": "ISC"
+}

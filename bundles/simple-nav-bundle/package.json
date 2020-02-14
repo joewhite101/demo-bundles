@@ -1,0 +1,15 @@
+{
+  "name": "simple-nav-bundle",
+  "version": "1.0.0",
+  "description": "A bundle with a simple page model",
+  "main": "descriptor.yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entandoo6",
+    "digital-exchange"
+  ],
+  "author": "",
+  "license": "ISC"
+}
