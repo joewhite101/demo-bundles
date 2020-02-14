@@ -1,0 +1,15 @@
+{
+  "name": "survey-bundle",
+  "version": "1.0.0",
+  "description": "The survey bundle provides widgets and page models to render a survey",
+  "main": "descriptor.yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entando6",
+    "digital-exchange"
+  ],
+  "author": "Entando",
+  "license": "ISC"
+}
